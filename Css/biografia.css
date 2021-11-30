@@ -1,0 +1,17 @@
+/* Resetando o site Inteiro */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+  scroll-behavior: smooth;
+}
+
+/* Início do Retrato */
+#retrato {
+    width: 250px;
+    height: auto;
+    padding: 20px;
+}
+/* Fim do Retrato */
