@@ -15,3 +15,108 @@
     padding: 20px;
 }
 /* Fim do Retrato */
+
+/* Início da biografia */
+#container-biografia {
+  display: flex;
+}
+
+#who{
+  font-weight: 600;
+  font-size: 25px;
+  text-align: center;
+  padding-top: 100px;
+}
+
+/* #where{
+  color: white;
+  background-color: rgb(10, 10, 12);
+} */
+
+#pWhere{
+  font-size: 25px;
+  text-align: center;
+  padding: 5px;
+  font-weight: 600;
+}
+
+#pStudy{
+  font-weight: 600;
+  font-size: 25px;
+  text-align: center;
+  padding: 5px;
+}
+
+#pDo{
+  font-weight: 600;
+  font-size: 25px;
+  text-align: center;
+  padding: 5px;
+}
+/* Fim da biografia */
+
+/* Início dos Ideais */
+
+/* Alienação */
+#intro{
+  font-weight: 600;
+  font-size: 25px;
+  text-align: left;
+  padding: 8px;
+}
+
+#intro2{
+  font-weight: 600;
+  font-size: 25px;
+  text-align: left;
+  padding: 8px;
+  padding-top: 8px;
+}
+
+#intro3{
+  font-weight: 600;
+  font-size: 25px;
+  text-align: left;
+  padding: 8px;
+  padding-top: 8px;
+}
+
+#intro4{
+  font-weight: 600;
+  font-size: 25px;
+  text-align: left;
+  padding: 8px;
+  padding-top: 8px;
+}
+
+/* outros ideais */
+
+.ideais{
+  background-color: #333;
+  color: white;
+}
+
+#pPratica{
+  font-size: 20px;
+  text-align: left;
+  padding: 8px;
+}
+
+#pClasses{
+  font-size: 20px;
+  text-align: left;
+  padding: 8px;
+}
+
+#pUniao{
+  font-size: 20px;
+  text-align: left;
+  padding: 8px;
+}
+/* Fim dos Ideais */
+
+/* obrigado */
+
+.obrigado{
+  
+}
